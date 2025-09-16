@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # Added files/directories
-public/
+
 
 # Distribution / packaging
 .Python
